@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	font-family: 'Oswald', sans-serif;
+
+
+}
+
+.header-footer {
+	text-align: center;
+	background-color: #9ecae1;
+	padding: 10px;
+	color: #525252 ;
+}
+
+section > div{
+	background-color: #d9d9d9;
+	margin: 30px;
+	padding: 30px;
+	border-radius: 25px;
+	color: #081d58;
+}
+
+header > img {
+	border-radius: 50%;
+}
